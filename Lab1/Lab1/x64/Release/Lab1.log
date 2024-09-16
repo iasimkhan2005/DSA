@@ -1,0 +1,8 @@
+﻿  Task1.cpp
+D:\OneDrive - Higher Education Commission\Bahria Uni\3rd semester\DSA_LABs\Lab1\Lab1\Task1.cpp(183,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  77 of 88 functions (87.5%) were compiled, the rest were copied from previous compilation.
+    67 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lab1.vcxproj -> D:\OneDrive - Higher Education Commission\Bahria Uni\3rd semester\DSA_LABs\Lab1\x64\Release\Lab1.exe
