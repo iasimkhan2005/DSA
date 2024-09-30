@@ -1,0 +1,4 @@
+﻿  Index.cpp
+D:\OneDrive - Higher Education Commission\Bahria Uni\3rd semester\DSA_LABs\lab 2\lab 2\Index.cpp(90,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive - Higher Education Commission\Bahria Uni\3rd semester\DSA_LABs\lab 2\lab 2\Index.cpp(36,1): warning C4715: 'stack::pop': not all control paths return a value
+  lab 2.vcxproj -> D:\OneDrive - Higher Education Commission\Bahria Uni\3rd semester\DSA_LABs\lab 2\x64\Debug\lab 2.exe
