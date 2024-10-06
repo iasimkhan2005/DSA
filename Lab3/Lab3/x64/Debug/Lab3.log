@@ -1,0 +1,5 @@
+﻿  LAB3.cpp
+C:\Users\Administrator\OneDrive - Higher Education Commission\Bahria Uni\3rd semester\DSA_LABs\Lab3\Lab3\LAB3.cpp(174,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\OneDrive - Higher Education Commission\Bahria Uni\3rd semester\DSA_LABs\Lab3\Lab3\LAB3.cpp(227,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\OneDrive - Higher Education Commission\Bahria Uni\3rd semester\DSA_LABs\Lab3\Lab3\LAB3.cpp(391,1): warning C4715: 'input': not all control paths return a value
+  Lab3.vcxproj -> C:\Users\Administrator\OneDrive - Higher Education Commission\Bahria Uni\3rd semester\DSA_LABs\Lab3\x64\Debug\Lab3.exe
