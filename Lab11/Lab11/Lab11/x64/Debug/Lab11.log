@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Administrator\OneDrive - Higher Education Commission\Bahria Uni\3rd semester\DSA_LABs\Lab11\Lab11\Lab11\main.cpp(24,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\OneDrive - Higher Education Commission\Bahria Uni\3rd semester\DSA_LABs\Lab11\Lab11\Lab11\main.cpp(37,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab11.vcxproj -> C:\Users\Administrator\OneDrive - Higher Education Commission\Bahria Uni\3rd semester\DSA_LABs\Lab11\Lab11\x64\Debug\Lab11.exe
