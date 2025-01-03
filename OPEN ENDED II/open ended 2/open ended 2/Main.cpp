@@ -231,7 +231,12 @@ int main() {
         case 1: {
             int u, v, weight;
             cout << "Enter edge (u v weight): ";
-            cin >> u >> v >> weight;
+            cout << "Enter Start: ";
+            cin >> u;
+            cout << "Enter End: ";
+            cin >> v;
+            cout << "Enter Edge Weight:";
+            cin>> weight;
             g.addEdge(u, v, weight);
             break;
         }
